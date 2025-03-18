@@ -1,4 +1,4 @@
-# fastapi_plus
+# fastapi_plus project for book lovers
 
 ## Overview
 This project is a **FastAPI-based REST API** that allows users to manage authors and books using an **SQLite database**. It provides endpoints to **create, retrieve, and delete** authors and books.
