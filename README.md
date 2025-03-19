@@ -51,7 +51,8 @@ By default, the server runs at: **http://127.0.0.1:8000**
   **Request Body:**
   ```json
   {
-    "name": "J.K. Rowling",
+    "name": "Joan",
+    "surname": "Rowling",
     "country": "United Kingdom"
   }
   ```
